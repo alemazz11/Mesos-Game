@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/gameplay.gif" alt="Mesos gameplay" width="900">
+  <img src="docs/mesos-gif.mp4" alt="Mesos gameplay" width="900">
 </p>
 
 ## Quick start
@@ -49,8 +49,8 @@ After connecting, each player chooses how to play: type `1` for the **text inter
     <th width="50%">⌨️ Text interface (TUI)</th>
   </tr>
   <tr>
-    <td><img src="docs/images/gui.jpg" alt="Mesos played with the graphical interface"></td>
-    <td><img src="docs/images/tui.png" alt="Mesos played from the terminal"></td>
+    <td><img src="docs/mesos-gui.jpeg" alt="Mesos played with the graphical interface"></td>
+    <td><img src="docs/mesos-tui.jpeg" alt="Mesos played from the terminal"></td>
   </tr>
 </table>
 
