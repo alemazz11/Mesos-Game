@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/gameplay.gif" alt="Mesos gameplay" width="900">
+  <img src="docs/mesos-gif.gif" alt="Mesos gameplay" width="900">
 </p>
 
 ## Quick start
